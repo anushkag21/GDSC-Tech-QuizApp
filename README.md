@@ -52,13 +52,14 @@ This project has been deployed for bonus points.
 👉 View Live App Here
 
 📸 Screenshots
-![Home Page](assets/readme.jpg)
-![Dashboard](assets/readme2.jpg)
-![Categories](assets/readme3.jpg)
-![Leaderboard](assets/readme4.jpg)
-![Settings](assets/readme5.jpg)
-![Bell](assets/readme6.jpg)
-![User Profile](assets/readme6.jpg)
+![Alt Text](assets/readme.png)
+![Alt Text](assets/readme2.png)
+![Alt Text](assets/readme3.png)
+![Alt Text](assets/readme4.png)
+![Alt Text](assets/readme5.png)
+![Alt Text](assets/readme6.png)
+![Alt Text](assets/readme7.png)
+
 
 Some Imp Points:
 All functionalities mentioned in the problem statement are completed.
