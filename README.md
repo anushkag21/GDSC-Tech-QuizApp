@@ -52,7 +52,7 @@ This project has been deployed for bonus points.
 👉 View Live App Here
 
 📸 Screenshots
-![Home Page](assets/readme1.jpg)
+![Home Page](assets/readme.jpg)
 ![Dashboard](assets/readme2.jpg)
 ![Categories](assets/readme3.jpg)
 ![Leaderboard](assets/readme4.jpg)
