@@ -1,11 +1,5 @@
 
-# GDSC Tech Quiz App 🎯
-Hello People, A Very Warm Welcome My Project is  under the Frontend - Interactive Quiz Application domain.
-
-Welcome to the GDSC Tech Quiz App — a dynamic, fun, and interactive quiz application built using modern web technologies!
-
-Deployed here 👉 https://gdg-quiz-ny6b6hys7-anushka-guptas-projects-ef0a3990.vercel.app/
-
+# Welcome to Quiz Master Pro
 ## 📋 Project Overview
 This is a Single Page Application (SPA) built using React.js that presents users with a multiple-choice quiz. The app tracks the user's score, provides immediate feedback after each question, and displays the final results upon completion. It is cleanly designed, fully responsive, and fulfills all the recruitment task requirements.
 
@@ -71,9 +65,4 @@ Screenshots of the working app are added to the repository as required.
 Anushka Gupta
 
 GitHub: anushkag21
-
-Email: er.anushkagupta@gmail.com
-
-
-## Thank you! for reviewing my project submission!
 
